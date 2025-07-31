@@ -1,7 +1,29 @@
+## descripcion:
+En este repositorio clone brindado por el profe, trabajamos en la actividad asignada creando 3 carpetas, una llamada docs, la otra src e images. 
+Despues dentro de las carpetas src se crea un archivo llamado script.py y se edit con el codigo brindado ya despues invetigamossobreel comando .gitignore el cual se copio un codigo y se dejó dentro del archivo.
+
+# clonacion: 
+se abre git y se ejecuta el siguiente comando (debemos cambiar la URL ya que cada repositorio tiene una diferente): git clone URL
+para abrir el repositorio ejecutamos cd (nombre del repositorio)
+
+# tabla de contenido "Markdown"
+
+[uso consola](./docs/uso_consola.md)
+[repositorio local](./docs/repositorio_local.md)
+[repositorio remoto](./docs/repositorio_remoto.md)
+
+
+
+![proceso 1](../git-and-github-IngAkiraVidalS/image/primerpasogit.png)
+![proceso 2](../git-and-github-IngAkiraVidalS/image/segundopasogit.png)
+![proceso 3](../git-and-github-IngAkiraVidalS/image/tercerpasogit.png)
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Akira Vidal Sánchez
+Id.:  000443547
 ---
 # Evaluación
 
